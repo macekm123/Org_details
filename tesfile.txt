@@ -3,6 +3,7 @@ Its complex file.
 Has good lines.
 Has bad lines.
 Lines server will add below:
+Server added line.
 Lines local will add below:
 Line added locally.
 And some ending lines.
