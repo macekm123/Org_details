@@ -1,9 +1,11 @@
+I am editin this line. Nope, addin fisst before it.
 This is a file that will be testing the pulling.
 Its complex file. Edited.
 Has good lines.
 Has bad lines.Edit this line.
 Lines server will add below:
 Server added line.
+Inserting more lines.
 Also insert this line here.
 Lines local will add below:
 Line added locally.
@@ -11,3 +13,4 @@ And some ending lines.
 A new line at the end.
 One more end line.
 Edited the last line, did line 12 get affected?
+Also endline.
