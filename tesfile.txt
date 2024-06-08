@@ -10,3 +10,4 @@ Line added locally.
 And some ending lines.
 A new line at the end.
 One more end line.
+Edited the last line, did line 12 get affected?
